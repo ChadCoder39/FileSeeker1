@@ -1,0 +1,15 @@
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csproj.AssemblyReference.cache
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\App.g.cs
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter_MarkupCompile.cache
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.exe.config
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.exe
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.pdb
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MainWindow.baml
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.g.resources
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.Properties.Resources.resources
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csproj.GenerateResource.cache
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csproj.CoreCompileInputs.cache
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.exe
+C:\Users\bohdan3\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.pdb
